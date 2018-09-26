@@ -7,9 +7,9 @@
 #
 Pod::Spec.new do |s|
   s.name             = "lame-for-ios-ch"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "lame-for-ios-ch is a mp3 encoder lib,this is for ios , arm64/armv7/armv7s/i386/x86_64"
-  s.homepage         = ""
+  s.homepage         = "https://github.com/lichanghong/lame-for-ios-ch.git"
  s.description      = <<-DESC
 			lame-for-ios-ch is a mp3 encoder lib,this is for ios , arm64/armv7/armv7s/i386/x86_64！！！ created by 峰云逸飞-李长鸿 ！！！有任何问题请给我留言交流
                        DESC
